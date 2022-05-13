@@ -23,8 +23,9 @@ Currently using Alpine Linux, I may switch to NixOS in future if it's worth the 
 docker-compose up
 ```
 
-![Images](public/screenshots/screenshot 2022-05-13 at 04.34.39.png?raw=true "Images")
-![Volumes](public/screenshots/screenshot 2022-05-13 at 04.34.55.png?raw=true "Volumes")
+![Images](https://github.com/DerekCrosson/boilerplate/raw/main/public/screenshots/Screenshot%202022-05-13%20at%2004.34.39.png "Images")
+
+![Volumes](https://github.com/DerekCrosson/boilerplate/raw/main/public/screenshots/Screenshot%202022-05-13%20at%2004.34.55.png "Volumes")
 
 ### TODO:
 - make Docker Compose use envirement variables
